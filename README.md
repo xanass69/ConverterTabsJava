@@ -1,17 +1,34 @@
 # ConverterTabsJava
 
-A simple and elegant Android application for quick unit conversions with a tabbed interface.
+Android app for temperature and distance conversion.
 
 ## Features
 
-- 🌡️ **Temperature Converter** - Convert between Celsius (°C) and Fahrenheit (°F)
-- 📏 **Distance Converter** - Convert between Kilometers (km) and Miles
-- 🎯 **Tabbed Interface** - Easy switching between converters
-- 🚪 **Exit Confirmation** - Dialog box confirms before closing
-- 📱 **Material Design** - Clean and modern UI
+- Convert Celsius to Fahrenheit and vice versa
+- Convert Kilometers to Miles and vice versa
+- Tabbed interface for easy switching
+- Exit confirmation dialog
 
-## screenshots
+## Screenshots
 
-![celsius](https://github.com/xanass69/ConverterTabsJava/raw/main/screenshots/celsius.png)
+![celsius.png](screenshots/celsius.png)
+![miles.png](screenshots/miles.png)
 
-![miles](https://github.com/xanass69/ConverterTabsJava/raw/main/screenshots/miles.png)
+## How to Use
+
+1. Select the conversion type using the tabs
+2. Choose conversion direction with radio buttons
+3. Enter a value
+4. Click Convert
+
+## Technologies
+
+- Java
+- Android SDK API 24+
+- Material Design
+- ViewPager2
+- TabLayout
+
+## Author
+
+xanass69
