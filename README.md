@@ -2,6 +2,6 @@
 
 ## Screenshots
 
-![](celsius.png)
+![](Screenshots/celsius.png)
 
-![](miles.png)
+![](Screenshots/miles.png)
