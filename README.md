@@ -8,14 +8,16 @@ ConverterTabsJava est une application mobile Android permettant d'effectuer des 
 
 - **Température** : Conversion entre Celsius (°C) et Fahrenheit (°F)
 - **Distance** : Conversion entre Kilomètres (Km) et Miles
-### screenshots
+## 📱 Captures d'écran
 
-![celsius.png](screenshots/celsius.png)
-![miles.png](screenshots/miles.png)
+**Température**
+<img src="screenshots/celsius.png" width="300">
+
+**Distance**
+<img src="screenshots/miles.png" width="300">
 
 L'application dispose d'une interface moderne avec onglets, d'un menu de navigation et d'une confirmation de sortie.
 
-## ✨ Fonctionnalités
 
 ### 🎯 Fonctionnalités principales
 - ✅ Interface à deux onglets (Température / Distance)
