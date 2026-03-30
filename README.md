@@ -2,6 +2,8 @@
 
 ## Screenshots
 
-![Celsius Conversion](screenshots/celsius.png)
+### Temperature Conversion
+<img src="https://github.com/xanass69/ConverterTabsJava/raw/main/screenshots/celsius.png" width="300">
 
-![Miles Conversion](screenshots/miles.png)
+### Distance Conversion
+<img src="https://github.com/xanass69/ConverterTabsJava/raw/main/screenshots/miles.png" width="300">
