@@ -12,5 +12,6 @@ A simple and elegant Android application for quick unit conversions with a tabbe
 
 ## screenshots
 
-![celsius.png](screenshots/celsius.png)
-![miles.png](screenshots/miles.png)
+![celsius](https://github.com/xanass69/ConverterTabsJava/raw/main/screenshots/celsius.png)
+
+![miles](https://github.com/xanass69/ConverterTabsJava/raw/main/screenshots/miles.png)
