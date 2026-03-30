@@ -26,7 +26,8 @@ A simple and elegant Android application for quick unit conversions with a tabbe
 - **Minimum SDK:** API 24 (Android 7.0)
 - **UI Components:** Material Design, TabLayout, ViewPager2
 
-## screenshots
+
+## Screenshots
 
 ![Celsius](images/celsius.png)
 ![Miles](images/miles.png)
