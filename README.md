@@ -29,5 +29,6 @@ A simple and elegant Android application for quick unit conversions with a tabbe
 
 ## Screenshots
 
-![Celsius](images/celsius.png)
-![Miles](images/miles.png)
+![Temperature](screenshots/celsius.png)
+
+![Distance](screenshots/miles.png)
