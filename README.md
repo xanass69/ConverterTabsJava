@@ -27,8 +27,7 @@ A simple and elegant Android application for quick unit conversions with a tabbe
 - **UI Components:** Material Design, TabLayout, ViewPager2
 
 
-## Screenshots
+## screenshots
 
 ![celsius.png](screenshots/celsius.png)
-
 ![miles.png](screenshots/miles.png)
