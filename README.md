@@ -2,6 +2,6 @@
 
 ## Screenshots
 
-![](Screenshots/celsius.png)
+![Celsius Conversion](screenshots/celsius.png)
 
-![](Screenshots/miles.png)
+![Miles Conversion](screenshots/miles.png)
